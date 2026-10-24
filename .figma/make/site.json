@@ -1,0 +1,10 @@
+{
+  "description": "Order pizzas easily from any device with a responsive delivery app designed for seamless browsing, selection, and secure checkout.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
